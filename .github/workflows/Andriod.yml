@@ -31,3 +31,4 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+![CodeQL](https://github.com/Angelsiblani/Social-platform-angel/workflows/CodeQL/badge.svg?branch=main&event=registry_package)
